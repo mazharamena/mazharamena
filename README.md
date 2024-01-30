@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Mazher Amena</h1>
 <h3 align="center">A passionate full stack web developer from Sacremento, California.</h3>
+<p align="center"> A decade of hands-on experience,I have established myself as an expert in WordPress and PHP, two pillars of web development.My collaborative approach ensures that I not only meets but exceeds client expectations.I keeps abreast of the latest trends and technologies in the web development industry, staying at the forefront of innovation. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazharamena&label=Profile%20views&color=0e75b6&style=flat" alt="mazharamena" /> </p>
 
